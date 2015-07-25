@@ -1,6 +1,6 @@
 <?php
 
-if(isset($_POST['username'])&&isset($_POST['password'])){
+/*if(isset($_POST['username'])&&isset($_POST['password'])){
 $username=$_POST['username'];
 $password=$_POST['password'];
 
@@ -27,7 +27,7 @@ $password_hase=md5($password);
 
 
 
-}
+}*/
 
 ?>
 
